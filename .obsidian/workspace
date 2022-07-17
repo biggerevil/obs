@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algos & data struct in Go/Кольцевой буфер или кольцевая очередь (Circular queue, Circular buffer or ring queue).md",
+            "file": "Go-Ultimate go/lesson 1.1 - Prepare your mind.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algos & data struct in Go/Кольцевой буфер или кольцевая очередь (Circular queue, Circular buffer or ring queue).md",
+                "file": "Go-Ultimate go/lesson 1.1 - Prepare your mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d9fb8f989f438779",
   "lastOpenFiles": [
-    "algos & data struct in Go/Кольцевой буфер или кольцевая очередь (Circular queue, Circular buffer or ring queue).md",
+    "Go-Ultimate go/lesson 1.1 - Prepare your mind.md",
+    "(2).md",
+    "Go-Ultimate go.md",
+    "Untitled.md",
+    "Go-general/Как работают каналы.md",
+    "Go-algos & data struct/Кольцевой буфер или кольцевая очередь (Circular queue, Circular buffer or ring queue).md",
+    "[Кольцевой буфер или кольцевая очередь (Circular queue, Circular buffer or ring queue).md",
+    "[[Кольцевой.md",
     "300px-Circular_buffer.svg.png",
-    "300px-Circular_buffer.svg 1.png.md",
-    "go/Как работают каналы.md",
-    "algos & data struct in Go/Про string.md",
-    "algos & data struct in Go/План по книге.md",
-    "nvim/mappings.md",
-    "nvim/Гайд.md",
-    "Переменная vim.md",
-    "nvim/Переменная vim и опции.md"
+    "300px-Circular_buffer.svg 1.png.md"
   ]
 }
